@@ -1,0 +1,64 @@
+﻿  NetRedirect-utils.cpp
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect-utils.cpp(49,9): error C2064: o termo não pode ser avaliado como uma função recebendo 3 argumentos
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect-utils.cpp(75,10): error C2064: o termo não pode ser avaliado como uma função recebendo 5 argumentos
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect-utils.cpp(91,10): error C2064: o termo não pode ser avaliado como uma função recebendo 5 argumentos
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect-utils.cpp(98,12): error C2064: o termo não pode ser avaliado como uma função recebendo 4 argumentos
+  NetRedirect.cpp
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(34,18): error C2373: 'OriginalRecv': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(26): message : consulte a declaração de 'OriginalRecv'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(35,18): error C2373: 'OriginalRecvFrom': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(27): message : consulte a declaração de 'OriginalRecvFrom'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(36,18): error C2373: 'OriginalSend': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(28): message : consulte a declaração de 'OriginalSend'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(37,18): error C2373: 'OriginalSendTo': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(29): message : consulte a declaração de 'OriginalSendTo'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(38,18): error C2373: 'OriginalConnect': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(30): message : consulte a declaração de 'OriginalConnect'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(39,18): error C2373: 'OriginalSelect': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(31): message : consulte a declaração de 'OriginalSelect'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(40,18): error C2373: 'OriginalWSARecv': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(32): message : consulte a declaração de 'OriginalWSARecv'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(41,18): error C2373: 'OriginalWSARecvFrom': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(33): message : consulte a declaração de 'OriginalWSARecvFrom'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(42,18): error C2373: 'OriginalWSASend': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(34): message : consulte a declaração de 'OriginalWSASend'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(43,18): error C2373: 'OriginalWSASendTo': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(35): message : consulte a declaração de 'OriginalWSASendTo'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(44,18): error C2373: 'OriginalWSAAsyncSelect': redefinição; modificadores de tipo diferentes
+C:\Users\seraf\Desktop\NetRedirect\Common.h(36): message : consulte a declaração de 'OriginalWSAAsyncSelect'
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(49,12): error C2065: 'OriginalRecv': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(54,13): error C2065: 'OriginalRecvFrom': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(59,12): error C2065: 'OriginalSend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(64,12): error C2065: 'OriginalSendTo': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(69,12): error C2065: 'OriginalConnect': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(74,12): error C2065: 'OriginalSelect': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(79,12): error C2065: 'OriginalWSARecv': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(84,12): error C2065: 'OriginalWSARecvFrom': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(89,12): error C2065: 'OriginalWSASend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(94,12): error C2065: 'OriginalWSASendTo': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(99,12): error C2065: 'OriginalWSAAsyncSelect': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(110,13): error C2065: 'OriginalSend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(137,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(157,13): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(166,17): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(176,17): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(184,17): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(222,17): error C2065: 'OriginalSend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(235,25): error C2065: 'OriginalSend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(248,13): error C2065: 'OriginalSend': identificador não declarado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(264,5): error C3861: 'debugInit': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(265,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(266,5): error C3861: 'HookWs2Functions': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(267,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(268,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(271,9): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(274,9): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(275,9): error C3861: 'finish': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(310,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(311,5): error C3861: 'UnhookWs2Functions': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(312,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(313,5): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(316,9): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(319,9): error C3861: 'debug': identificador não encontrado
+C:\Users\seraf\Desktop\NetRedirect\NetRedirect.cpp(368,13): error C3861: 'debug': identificador não encontrado
+  Gerando Código...
